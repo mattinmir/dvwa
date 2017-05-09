@@ -1,0 +1,2 @@
+Intercept HTTP request in Burp Suite (or equivalent tool) and edit the 'id' value to:
+1 or 1=1;#
